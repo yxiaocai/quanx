@@ -8,7 +8,7 @@ hostname=qidian.qpic.cn,ulogs.umeng.com,ulogs.umengcloud.com,alogs.umeng.com,alo
 ^https?://vira.llsapp.com/api/v2/readings/limitation url response-body .* response-body .
 
 ; 知乎 PC 版
-^https://(..)?zhihu.com/ url request-header \r\nUser-Agent:.+\r\n request-header \r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/71.0.3578.98 Safari/537.36\r\n
+^https://(.*\.)?zhihu.com/ url request-header \r\nUser-Agent:.+\r\n request-header \r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/71.0.3578.98 Safari/537.36\r\n
 
 ; 微信读书 
 ^https?://i.weread.qq.com/pay/memberCardSummary url response-body (expiredTime":|remainTime":)\d+,(.?)(red":\d+,)(.*?)(ime":\d+,) response-body 12602963199,2red":0,$4ime":2602963199,
