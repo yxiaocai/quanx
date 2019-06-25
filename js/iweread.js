@@ -19,10 +19,10 @@ function modify_balance() {
   body = JSON.stringify(obj);
    }
    
-if (path = path1){
+if (path.indexOf(path1) != -1){
   modify_card();
 }
-if (path = path2){
+if (path.indexOf(path2) != -1 = path2){
   modify_balance();
 }
 $done(body);
