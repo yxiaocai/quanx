@@ -1,7 +1,7 @@
 var body = $response.body;
 const path1 = "/pay/memberCardSummary";
 const path2 = "/pay/balance";
-var path = $requests.path;
+var path = $request.path;
 
 function modify_card() {
   let obj = JSON.parse(body);
