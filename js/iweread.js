@@ -22,7 +22,7 @@ function modify_balance() {
 if (path.indexOf(path1) != -1){
   modify_card();
 }
-if (path.indexOf(path2) != -1 = path2){
+if (path.indexOf(path2) != -1 ){
   modify_balance();
 }
 $done(body);
