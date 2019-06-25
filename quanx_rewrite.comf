@@ -10,9 +10,9 @@ hostname=qidian.qpic.cn,ulogs.umeng.com,ulogs.umengcloud.com,alogs.umeng.com,alo
 ^https://(.*\.)?zhihu.com/ url request-header \r\nUser-Agent:.+\r\n request-header \r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/71.0.3578.98 Safari/537.36\r\n
 
 ; 微信读书 
-https?://i.weread.qq.com/pay/memberCardSummary url response-body (expiredTime":|remainTime":)\d+,(.?)(red":\d+,)(.*?)(ime":\d+,) response-body $12602963199,2$red":0,$4ime":2602963199,
-^https?://i.weread.qq.com/pay/balance url response-body "[Bb]alance":\d(.\d+)? response-body "balance":999999
-
+;https?://i.weread.qq.com/pay/memberCardSummary url response-body (expiredTime":|remainTime":)\d+,(.?)(red":\d+,)(.*?)(ime":\d+,) response-body $12602963199,2$red":0,$4ime":2602963199,
+;^https?://i.weread.qq.com/pay/balance url response-body "[Bb]alance":\d(.\d+)? response-body "balance":999999
+^https?://i.weread.qq.com/pay url script-response-body https://raw.githubusercontent.com/yxiaocai/quanx/master/js/iweread.js
 ; 网易蜗牛读书
 ^https?://p\.du\.163\.com/readtime/info.json url reject
   
