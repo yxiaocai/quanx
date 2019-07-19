@@ -1,0 +1,4 @@
+# > Youtube_Music
+USER-AGENT,*YouTubeMusic*,YouTube_Music
+USER-AGENT,*com.google.ios.youtubemusic*,YouTube_Music
+PROCESS-NAME,YT Music,YouTube_Music

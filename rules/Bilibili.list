@@ -1,0 +1,12 @@
+# > Bilibili
+USER-AGENT,*bili*,Bilibili
+DOMAIN-SUFFIX,acg.tv,Bilibili
+DOMAIN-SUFFIX,acgvideo.com,Bilibili
+DOMAIN-SUFFIX,b23.tv,Bilibili
+DOMAIN-SUFFIX,biliapi.com,Bilibili
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+DOMAIN-SUFFIX,biligame.com,Bilibili
+DOMAIN-SUFFIX,biligame.net,Bilibili
+DOMAIN-SUFFIX,hdslb.com,Bilibili
+DOMAIN-SUFFIX,im9.com,Bilibili
