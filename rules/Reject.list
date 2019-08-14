@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,cupid.iqiyi.com,Reject
 DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,Reject
 DOMAIN-SUFFIX,game.pps.tv,Reject
 DOMAIN-SUFFIX,gamecenter.iqiyi.com,Reject
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com,Reject
 DOMAIN-SUFFIX,ifacelog.iqiyi.com,Reject
 DOMAIN-SUFFIX,mbdlog.iqiyi.com,Reject
 DOMAIN-SUFFIX,msg.71.am,Reject
@@ -284,7 +283,6 @@ DOMAIN-KEYWORD,analysis,Reject
 DOMAIN-KEYWORD,analysys,Reject
 DOMAIN-KEYWORD,applovin,Reject
 DOMAIN-KEYWORD,appsflyer,Reject
-DOMAIN-KEYWORD,dataflow,Reject
 DOMAIN-KEYWORD,dnserror,Reject
 DOMAIN-KEYWORD,domob,Reject
 DOMAIN-KEYWORD,duomeng,Reject
@@ -304,7 +302,6 @@ DOMAIN-KEYWORD,securepubads,Reject
 DOMAIN-KEYWORD,socdm,Reject
 DOMAIN-KEYWORD,supersonicads,Reject
 DOMAIN-KEYWORD,taboola,Reject
-DOMAIN-KEYWORD,traffic,Reject
 DOMAIN-KEYWORD,uedas,Reject
 DOMAIN-KEYWORD,umtrack,Reject
 DOMAIN-KEYWORD,uploadMobileData,Reject
@@ -1586,7 +1583,6 @@ DOMAIN-SUFFIX,apk.supfast.net,Reject
 DOMAIN-SUFFIX,apkdo.com,Reject
 DOMAIN-SUFFIX,apkinfo.voole.com,Reject
 DOMAIN-SUFFIX,apklog.cp11.ott.cibntv.net,Reject
-DOMAIN-SUFFIX,apm.suning.cn,Reject
 DOMAIN-SUFFIX,apnmedia.ask.com,Reject
 DOMAIN-SUFFIX,apns.ios.ijinshan.com,Reject
 DOMAIN-SUFFIX,apoll.m.taobao.com,Reject
@@ -2742,7 +2738,6 @@ DOMAIN-SUFFIX,dashet.com,Reject
 DOMAIN-SUFFIX,data.3975.com,Reject
 DOMAIN-SUFFIX,data.ad-score.com,Reject
 DOMAIN-SUFFIX,data.apn.co.nz,Reject
-DOMAIN-SUFFIX,data.bilibili.com,Reject
 DOMAIN-SUFFIX,data.danmu.baofeng.com,Reject
 DOMAIN-SUFFIX,data.doodlemobile.com,Reject
 DOMAIN-SUFFIX,data.gosquared.com,Reject
