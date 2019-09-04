@@ -25,7 +25,16 @@ DOMAIN,ip.bjango.com,Domestic
 DOMAIN-SUFFIX,alphassl.com,Domestic
 DOMAIN-SUFFIX,edu.cn,Domestic
 
+# > Sony
+USER-AGENT,RemotePlay*,Domestic
+DOMAIN-SUFFIX,playstation.com,Domestic
+DOMAIN-SUFFIX,playstation.net,Domestic
+DOMAIN-SUFFIX,playstationnetwork.com,Domestic
+DOMAIN-SUFFIX,sony.com,Domestic
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Domestic
+
 # > Steam
+USER-AGENT,Steam*,Domestic
 DOMAIN-SUFFIX,steamcontent.com,Domestic
 
 # > TeamViewer
@@ -221,7 +230,6 @@ DOMAIN-SUFFIX,sogoucdn.com,Domestic
 DOMAIN-SUFFIX,sohu.com,Domestic
 DOMAIN-SUFFIX,soku.com,Domestic
 DOMAIN-SUFFIX,soso.com,Domestic
-DOMAIN-SUFFIX,speedtest.net,Domestic
 DOMAIN-SUFFIX,sspai.com,Domestic
 DOMAIN-SUFFIX,startssl.com,Domestic
 DOMAIN-SUFFIX,store.steampowered.com,Domestic

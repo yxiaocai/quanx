@@ -43,6 +43,10 @@ DOMAIN-SUFFIX,app.smartmailcloud.com,Proxy
 DOMAIN-SUFFIX,gate.hockeyapp.net,Proxy
 DOMAIN-SUFFIX,smartmailcloud.com,Proxy
 
+# > Speedtest
+DOMAIN-KEYWORD,speedtest,Proxy
+DOMAIN-SUFFIX,ooklaserver.net,Proxy
+
 # > Steam
 DOMAIN-SUFFIX,fanatical.com,Proxy
 DOMAIN-SUFFIX,humblebundle.com,Proxy
@@ -377,10 +381,6 @@ DOMAIN-SUFFIX,pixelmator.com,Proxy
 DOMAIN-SUFFIX,pixiv.net,Proxy
 DOMAIN-SUFFIX,pixnet.net,Proxy
 DOMAIN-SUFFIX,playpcesor.com,Proxy
-DOMAIN-SUFFIX,playstation.com,Proxy
-DOMAIN-SUFFIX,playstation.com.hk,Proxy
-DOMAIN-SUFFIX,playstation.net,Proxy
-DOMAIN-SUFFIX,playstationnetwork.com,Proxy
 DOMAIN-SUFFIX,pokemon.com,Proxy
 DOMAIN-SUFFIX,polymer-project.org,Proxy
 DOMAIN-SUFFIX,popo.tw,Proxy
@@ -432,9 +432,6 @@ DOMAIN-SUFFIX,smh.com.au,Proxy
 DOMAIN-SUFFIX,snapchat.com,Proxy
 DOMAIN-SUFFIX,sndcdn.com,Proxy
 DOMAIN-SUFFIX,sockslist.net,Proxy
-DOMAIN-SUFFIX,sony.com,Proxy
-DOMAIN-SUFFIX,sony.com.hk,Proxy
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Proxy
 DOMAIN-SUFFIX,soundcloud.com,Proxy
 DOMAIN-SUFFIX,sourceforge.net,Proxy
 DOMAIN-SUFFIX,sowers.org.hk,Proxy
